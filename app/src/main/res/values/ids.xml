@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEdtNoteName" type="id">idEdtNoteName</item>
+    <item name="idEdtNoteDesc" type="id">idEdtNoteDesc</item>
+    <item name="idBtn" type="id">idBtn</item>
+</resources>
