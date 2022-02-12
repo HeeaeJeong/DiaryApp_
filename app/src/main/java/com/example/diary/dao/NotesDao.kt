@@ -2,6 +2,7 @@ package com.example.diary.dao
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.example.diary.model.Note
 
 @Dao
 interface NotesDao {

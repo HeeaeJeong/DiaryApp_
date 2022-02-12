@@ -1,4 +1,4 @@
-package com.example.diary.viewmodel
+package com.example.diary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
